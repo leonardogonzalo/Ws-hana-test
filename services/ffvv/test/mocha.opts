@@ -1,0 +1,3 @@
+--reporter=mochawesome
+--reporter-options reportDir=reports/test,reportFilename=test,reportTitle=Test\ micro\ services\ FFVV,reportPageTitle=Test\ micro\ services\ FFVV
+ --exit

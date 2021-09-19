@@ -1,0 +1,15 @@
+{
+  "description": "Coverage logger",
+  "require": [
+    "@babel/register",
+    "@babel/polyfill"
+  ],
+  "sourceMap": false,
+  "instrument": false,
+  "reporter": [
+    "html",
+    "text"
+  ],
+  "temp-dir": "./tmp",
+  "report-dir": "./reports/coverage"
+}

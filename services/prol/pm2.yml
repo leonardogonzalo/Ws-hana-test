@@ -1,0 +1,7 @@
+apps:
+  - script   : ./server.js
+    name     : 'prol3'
+    instances : 'max'
+    exec_mode : 'cluster'
+    env    :
+      NODE_ENV: production

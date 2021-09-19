@@ -1,0 +1,25 @@
+# Directories
+.vscode/
+.nyc_output/
+node_modules/
+dist/
+reports/
+
+# Logs
+*.log
+
+# Generated files
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+yarn.lock
+yarn-error.log
+
+# Properties
+.env
+
+# Others
+.editorconfig
+.gitignore
+README.md

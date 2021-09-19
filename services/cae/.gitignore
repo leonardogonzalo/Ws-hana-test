@@ -1,0 +1,17 @@
+# Directories
+.nyc_output/
+node_modules/
+reports/
+#dist/
+# Logs
+*.log
+
+# Generated files
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+#Properties
+.env
+env-dev.yaml
